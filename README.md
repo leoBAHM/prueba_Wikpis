@@ -5,6 +5,7 @@ Deben tener MySQL instalado y crear una base de datos llamada "api"
 Pasos para ejecutar la aplicación.
 
 1.- Instalar las librerías especificadas en el archivo requirements.txt
+
 2.- ejecurar en una consola (cmd) lo siguiente:
   Para Windows:
   2.1.- SET FLASK_APP=application.py
