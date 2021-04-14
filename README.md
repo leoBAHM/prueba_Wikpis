@@ -1,3 +1,5 @@
+Regular tirando a sobresaliente
+
 # prueba_Wikpis
 
 Deben tener MySQL instalado y crear una base de datos llamada "api"
