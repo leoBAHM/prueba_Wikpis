@@ -25,6 +25,7 @@ Pasos para ejecutar la aplicación.
   2.7. flask run
   
   Para Ubuntu:
+  
   2.1. export FLASK_APP=application.py
  
   2.2. export FLASK_ENV=development
